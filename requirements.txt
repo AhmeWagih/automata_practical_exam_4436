@@ -1,0 +1,6 @@
+# This file is used to specify the dependencies for the project.
+
+# Jest is a JavaScript testing framework.
+# You can install it using npm or yarn.
+
+npm install --save-dev jest  
